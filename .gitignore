@@ -1,0 +1,9 @@
+*.pyc
+*.ipynb_checkpoints
+data
+results
+.eggs
+eth_privacy_2021-06-18.zip
+ethprivacy.egg-info/
+dist/
+build/*
