@@ -1,3 +1,10 @@
+# Deposit Withdrawal Times
+this is a copy of [ethereum-privacy](https://github.com/ferencberes/ethereum-privacy), but I am using the tools and data provided by those authors to analyze the withdrawal-deposit times in the 0.1 Eth tornado pool. My analyses are in `ipython/deposit-withdrawal-times.ipynb`.
+
+Eventually, the knowledge gained from this will be applied to Sacred's privacy indicator formula.
+
+The remainder of this readme is the readme of the original project.
+
 # ethereum-privacy (ethprivacy package)
 
 ![build](https://github.com/ferencberes/ethereum-privacy/actions/workflows/main.yml/badge.svg)
